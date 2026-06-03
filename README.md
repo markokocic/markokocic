@@ -1,4 +1,4 @@
-## Hi there 👋
+![OSS Contributions](oss-badge.svg)
 
 <!--
 **markokocic/markokocic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
