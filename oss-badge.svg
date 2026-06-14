@@ -93,17 +93,17 @@
 
   <!-- Stats -->
   <g transform="translate(48, 132)">
-    <text class="stat">23</text>
+    <text class="stat">24</text>
     <text class="stat-label" y="22">Projects</text>
   </g>
 
   <g transform="translate(220, 132)">
-    <text class="stat">48</text>
+    <text class="stat">50</text>
     <text class="stat-label" y="22">PRs merged</text>
   </g>
 
   <g transform="translate(390, 132)">
-    <text class="stat">1.9K</text>
+    <text class="stat">2.2K</text>
     <text class="stat-label" y="22">Lines changed</text>
   </g>
 
@@ -134,8 +134,8 @@
   
   <g transform="translate(48, 316)">
     <text class="repo-name">
-      @simonmichael/hledger
-      <tspan class="repo-stars"> ★ 4.5K</tspan>
+      @kit-clj/modules
+      <tspan class="repo-stars"> ★ 14</tspan>
     </text>
 
     <text class="repo-meta" y="22">
@@ -145,8 +145,8 @@
   
   <g transform="translate(48, 372)">
     <text class="repo-name">
-      @kit-clj/modules
-      <tspan class="repo-stars"> ★ 14</tspan>
+      @simonmichael/hledger
+      <tspan class="repo-stars"> ★ 4.5K</tspan>
     </text>
 
     <text class="repo-meta" y="22">
@@ -167,8 +167,8 @@
   
   <g transform="translate(48, 484)">
     <text class="repo-name">
-      @dessalines/thumb-key
-      <tspan class="repo-stars"> ★ 1.5K</tspan>
+      @cryogen-project/cryogen-core
+      <tspan class="repo-stars"> ★ 72</tspan>
     </text>
 
     <text class="repo-meta" y="22">
