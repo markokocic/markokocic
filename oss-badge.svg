@@ -93,17 +93,17 @@
 
   <!-- Stats -->
   <g transform="translate(48, 132)">
-    <text class="stat">24</text>
+    <text class="stat">25</text>
     <text class="stat-label" y="22">Projects</text>
   </g>
 
   <g transform="translate(220, 132)">
-    <text class="stat">50</text>
+    <text class="stat">52</text>
     <text class="stat-label" y="22">PRs merged</text>
   </g>
 
   <g transform="translate(390, 132)">
-    <text class="stat">2.2K</text>
+    <text class="stat">2.5K</text>
     <text class="stat-label" y="22">Lines changed</text>
   </g>
 
@@ -124,7 +124,7 @@
   <g transform="translate(48, 260)">
     <text class="repo-name">
       @kit-clj/kit
-      <tspan class="repo-stars"> ★ 554</tspan>
+      <tspan class="repo-stars"> ★ 555</tspan>
     </text>
 
     <text class="repo-meta" y="22">
@@ -133,17 +133,6 @@
   </g>
   
   <g transform="translate(48, 316)">
-    <text class="repo-name">
-      @kit-clj/modules
-      <tspan class="repo-stars"> ★ 14</tspan>
-    </text>
-
-    <text class="repo-meta" y="22">
-      5 PRs merged
-    </text>
-  </g>
-  
-  <g transform="translate(48, 372)">
     <text class="repo-name">
       @simonmichael/hledger
       <tspan class="repo-stars"> ★ 4.6K</tspan>
@@ -154,10 +143,21 @@
     </text>
   </g>
   
+  <g transform="translate(48, 372)">
+    <text class="repo-name">
+      @kit-clj/modules
+      <tspan class="repo-stars"> ★ 14</tspan>
+    </text>
+
+    <text class="repo-meta" y="22">
+      5 PRs merged
+    </text>
+  </g>
+  
   <g transform="translate(48, 428)">
     <text class="repo-name">
       @emacs-love/weblorg
-      <tspan class="repo-stars"> ★ 300</tspan>
+      <tspan class="repo-stars"> ★ 301</tspan>
     </text>
 
     <text class="repo-meta" y="22">
@@ -167,12 +167,12 @@
   
   <g transform="translate(48, 484)">
     <text class="repo-name">
-      @cryogen-project/cryogen-core
-      <tspan class="repo-stars"> ★ 72</tspan>
+      @orgzly-revived/orgzly-android-revived
+      <tspan class="repo-stars"> ★ 1.1K</tspan>
     </text>
 
     <text class="repo-meta" y="22">
-      2 PRs merged
+      3 PRs merged
     </text>
   </g>
   
