@@ -93,17 +93,17 @@
 
   <!-- Stats -->
   <g transform="translate(48, 132)">
-    <text class="stat">25</text>
+    <text class="stat">28</text>
     <text class="stat-label" y="22">Projects</text>
   </g>
 
   <g transform="translate(220, 132)">
-    <text class="stat">53</text>
+    <text class="stat">57</text>
     <text class="stat-label" y="22">PRs merged</text>
   </g>
 
   <g transform="translate(390, 132)">
-    <text class="stat">2.5K</text>
+    <text class="stat">3.2K</text>
     <text class="stat-label" y="22">Lines changed</text>
   </g>
 
@@ -134,7 +134,7 @@
   
   <g transform="translate(48, 316)">
     <text class="repo-name">
-      @plaintextaccounting/hledger
+      @hledgerorg/hledger
       <tspan class="repo-stars"> ★ 4.7K</tspan>
     </text>
 
@@ -156,8 +156,8 @@
   
   <g transform="translate(48, 428)">
     <text class="repo-name">
-      @emacs-love/weblorg
-      <tspan class="repo-stars"> ★ 303</tspan>
+      @orgzly-revived/orgzly-android-revived
+      <tspan class="repo-stars"> ★ 1.1K</tspan>
     </text>
 
     <text class="repo-meta" y="22">
@@ -167,8 +167,8 @@
   
   <g transform="translate(48, 484)">
     <text class="repo-name">
-      @orgzly-revived/orgzly-android-revived
-      <tspan class="repo-stars"> ★ 1.1K</tspan>
+      @emacs-love/weblorg
+      <tspan class="repo-stars"> ★ 302</tspan>
     </text>
 
     <text class="repo-meta" y="22">
