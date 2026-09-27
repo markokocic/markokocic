@@ -98,12 +98,12 @@
   </g>
 
   <g transform="translate(220, 132)">
-    <text class="stat">60</text>
+    <text class="stat">64</text>
     <text class="stat-label" y="22">PRs merged</text>
   </g>
 
   <g transform="translate(390, 132)">
-    <text class="stat">6.6K</text>
+    <text class="stat">10.5K</text>
     <text class="stat-label" y="22">Lines changed</text>
   </g>
 
@@ -123,8 +123,8 @@
   
   <g transform="translate(48, 260)">
     <text class="repo-name">
-      @kit-clj/kit
-      <tspan class="repo-stars"> ★ 558</tspan>
+      @jolt-lang/jolt
+      <tspan class="repo-stars"> ★ 305</tspan>
     </text>
 
     <text class="repo-meta" y="22">
@@ -134,23 +134,23 @@
   
   <g transform="translate(48, 316)">
     <text class="repo-name">
+      @kit-clj/kit
+      <tspan class="repo-stars"> ★ 558</tspan>
+    </text>
+
+    <text class="repo-meta" y="22">
+      9 PRs merged
+    </text>
+  </g>
+  
+  <g transform="translate(48, 372)">
+    <text class="repo-name">
       @hledgerorg/hledger
       <tspan class="repo-stars"> ★ 4.7K</tspan>
     </text>
 
     <text class="repo-meta" y="22">
       6 PRs merged
-    </text>
-  </g>
-  
-  <g transform="translate(48, 372)">
-    <text class="repo-name">
-      @jolt-lang/jolt
-      <tspan class="repo-stars"> ★ 293</tspan>
-    </text>
-
-    <text class="repo-meta" y="22">
-      5 PRs merged
     </text>
   </g>
   
